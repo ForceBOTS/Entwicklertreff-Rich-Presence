@@ -1,0 +1,14 @@
+{
+  "name": "entwicklertreff-rich-presence",
+  "version": "1.0.0",
+  "description": "Entwicklertreff: Deutschlands größte Discord-Entwicklercommunity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ForceDEV",
+  "license": "MIT",
+  "dependencies": {
+    "discord-rich-presence": "0.0.6"
+  }
+}
