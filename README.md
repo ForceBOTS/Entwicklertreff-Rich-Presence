@@ -15,11 +15,11 @@ NodeJS: [[64 Bit](https://nodejs.org/dist/v9.4.0/node-v9.4.0-x64.msi) | [32 Bit]
 GIT: [[64 Bit](https://github.com/git-for-windows/git/releases/download/v2.15.1.windows.2/Git-2.15.1.2-64-bit.exe)]
 
 1. klonen oder laden sie sich diese Repo herunter
-2. begeben Sie sich in den heruntergeladenen bzw. geklonten Ordner und öffnen Sie ihn
+2. begeben Sie sich in den heruntergeladenen bzw. geklonten Ordner
 3. dort öffnen Sie ein PowerShell bzw. Konsolenfenster und führen `npm install` aus
 4. nachdem der Installationsprozess fertig ist, führen sie `node index.js` im selben Konsolenfenster aus
 
-Der Rest dieser Repo erreignet sich automatisch.
+Sie müssen nichts weiters machen außer das Konsolenfenster offen zu lassen, denn nachdem sie es schließen wird das Rich-Presence nicht mehr aktiv sein.
 
 ### __Bugs und Fehler__
 
