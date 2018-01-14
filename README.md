@@ -11,8 +11,7 @@
 
 *zur verwendung dieser Repo wird NodeJS und GIT auf der neusten Version gebraucht*
 
-NodeJS: [[64 Bit](https://nodejs.org/dist/v9.4.0/node-v9.4.0-x64.msi) | [32 Bit](https://nodejs.org/dist/v9.4.0/node-v9.4.0-x86.msi)]
-GIT: [[64 Bit](https://github.com/git-for-windows/git/releases/download/v2.15.1.windows.2/Git-2.15.1.2-64-bit.exe)]
+NodeJS: [[64 Bit](https://nodejs.org/dist/v9.4.0/node-v9.4.0-x64.msi) | [32 Bit](https://nodejs.org/dist/v9.4.0/node-v9.4.0-x86.msi)]\nGIT: [[64 Bit](https://github.com/git-for-windows/git/releases/download/v2.15.1.windows.2/Git-2.15.1.2-64-bit.exe)]
 
 1. klonen oder laden sie sich diese Repo herunter
 2. begeben Sie sich in den heruntergeladenen bzw. geklonten Ordner
@@ -31,7 +30,4 @@ Danke an CodingGuy für die unterstützung dieses Projektes.
 
 ### __Werbung__
 
-[Entwicklertreff](https://discord.gg/UtXEP5e) ist die größte deutsche Discord-Entwicklercommunity. Dort könnt ihr hilfe bei euren aktuellen Coding-Projekten bekommen oder anfangen eine neue Programmiersprache zu lernen mit unserem ausgearbeiteten Mentorprogramm.
-
-
-© ForceBOTS / David
+[Entwicklertreff](https://discord.gg/UtXEP5e) ist die größte deutsche Discord-Entwicklercommunity. Dort könnt ihr hilfe bei euren aktuellen Coding-Projekten bekommen oder ihr fängt an eine neue Programmiersprache zu lernen mit unserem ausgearbeiteten Mentorenprogramm.\n© ForceBOTS / David
