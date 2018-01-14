@@ -1,20 +1,37 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://entwickler.cc"><img src="https://discordapp.com/api/guilds/365116470339960832/embed.png" alt="Discord server" /></a>
+    <a href="https://discord.gg/UtXEP5e"><img src="https://discordapp.com/api/guilds/365116470339960832/embed.png" alt="Discord server" /></a>
   </p>
 </div>
 
 # Entwicklertreff-Rich-Presence
 
-### Installation
+### __Installation__
 
-1. Alle Datein herunterladen
-2. Im hertuntergeladenen Ordner in einer Konsole `npm i` ausführen
-3. Danach im gleichen Ordner in einer Konsole `node index.js` ausführen
+*zur verwendung dieser Repo wird NodeJS und GIT auf der neusten Version gebraucht*
 
-Der Rest passiert von alleine.
-Vielen Dank fürs verbreiten des Entwicklertreff's Discord.
-~ David im Namen vom Entwicklertreff Team
+NodeJS: [[64 Bit](https://nodejs.org/dist/v9.4.0/node-v9.4.0-x64.msi) | [32 Bit](https://nodejs.org/dist/v9.4.0/node-v9.4.0-x86.msi)]
+GIT: [[64 Bit](https://github.com/git-for-windows/git/releases/download/v2.15.1.windows.2/Git-2.15.1.2-64-bit.exe)]
+
+1. klonen oder laden sie sich diese Repo herunter
+2. begeben Sie sich in den heruntergeladenen bzw. geklonten Ordner und öffnen Sie ihn
+3. dort öffnen Sie ein PowerShell bzw. Konsolenfenster und führen `npm install` aus
+4. nachdem der Installationsprozess fertig ist, führen sie `node index.js` im selben Konsolenfenster aus
+
+Der Rest dieser Repo erreignet sich automatisch.
+
+### __Bugs und Fehler__
+
+Bei Fehlern oder Bugs öffenen Sie eine neue "Issue" in dieser GitHub repo.
+
+### __Danksagung__
+
+Danke an CodingGuy für die unterstützung dieses Projektes.
+
+### __Werbung__
+
+[Entwicklertreff](https://discord.gg/UtXEP5e) ist die größte deutsche Discord-Entwicklercommunity. Dort könnt ihr hilfe bei euren aktuellen Coding-Projekten bekommen oder anfangen eine neue Programmiersprache zu lernen mit unserem ausgearbeiteten Mentorprogramm.
+
 
 © ForceBOTS / David
