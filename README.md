@@ -9,29 +9,30 @@
 
 ### __Installation__
 
-*zur verwendung dieser Repo wird NodeJS und GIT auf der neusten Version gebraucht*
+*Zur Verwendung dieses Programms wird die neuste Version von NodeJS und GIT benötigt*
 
 **NodeJS:** [[64 Bit](https://nodejs.org/dist/v9.4.0/node-v9.4.0-x64.msi) | [32 Bit](https://nodejs.org/dist/v9.4.0/node-v9.4.0-x86.msi)]
 
 **GIT:** [[64 Bit](https://github.com/git-for-windows/git/releases/download/v2.15.1.windows.2/Git-2.15.1.2-64-bit.exe)]
 
-1. klonen oder laden sie sich diese Repo herunter
-2. begeben Sie sich in den heruntergeladenen bzw. geklonten Ordner
-3. dort öffnen Sie ein PowerShell bzw. Konsolenfenster und führen `npm install` aus
-4. nachdem der Installationsprozess fertig ist, führen sie `node index.js` im selben Konsolenfenster aus
+1. Herunterladen oder klonen der Repository
+2. In den heruntergeladenen Ordner begeben
+3. Powershell oder Konsole öffnen
+4. `npm install` ausführen
+4. Nachdem der Installationsprozess abgeschlossen wurde `node index.js` ausführen
 
-Sie müssen nichts weiters machen außer das Konsolenfenster offen zu lassen, denn nachdem sie es schließen wird das Rich-Presence nicht mehr aktiv sein.
+Damit das Programm funktioniert, muss das Konsolenfenster geöffnet bleiben
 
 ### __Bugs und Fehler__
 
-Bei Fehlern oder Bugs öffenen Sie eine neue "Issue" in dieser GitHub repo.
+Bei auftretenden Fehlern/Bugs kann die "Issue" Funktion von Github genutzt werden
 
 ### __Danksagung__
 
-Danke an CodingGuy für die unterstützung dieses Projektes.
+Danke an CodingGuy für die Unterstützung dieses Projektes.
 
 ### __Werbung__
 
-[Entwicklertreff](https://discord.gg/UtXEP5e) ist die größte deutsche Discord-Entwicklercommunity. Dort könnt ihr hilfe bei euren aktuellen Coding-Projekten bekommen oder ihr fängt an eine neue Programmiersprache zu lernen mit unserem ausgearbeiteten Mentorenprogramm.
+[Entwicklertreff](https://discord.gg/UtXEP5e) der größte deutsche Programmier-Discord. Auf diesem Server könnt ihr Hilfestellung bei euren Fragen und Problemen erhalten.
 
 © ForceBOTS / David
