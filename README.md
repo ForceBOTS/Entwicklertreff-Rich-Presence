@@ -28,7 +28,7 @@ Bei Fehlern oder Bugs öffenen Sie eine neue "Issue" in dieser GitHub repo.
 
 ### __Danksagung__
 
-Danke an CodingGuy für die unterstützung dieses Projektes.
+Danke an [[Cryptix](https://cryptix.cc)] für die unterstützung dieses Projektes.
 
 ### __Werbung__
 
